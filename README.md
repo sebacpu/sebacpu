@@ -1,4 +1,4 @@
-# Sebastián Aravena
+# Sebastián Aravena Neicun
 
 Air traffic controller and software developer based in Santiago, Chile.
 
